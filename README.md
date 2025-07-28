@@ -5,7 +5,7 @@ ROS 2 Version: Humble
 lidar node for obstacle avoidance and SLAM-Navigation  
 by Siyu, Omkar
 #### Status: under developing
-##### milestone: 
+#### milestone: 
 node reads lidar data from topic /scan succesfully.  
 valid measurements extracted, print minimal distance.  
 
