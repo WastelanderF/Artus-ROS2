@@ -6,7 +6,7 @@ lidar node for obstacle avoidance and SLAM-Navigation
 by Siyu, Omkar
 ### Status: under developing
 #### milestone: 
-node reads lidar daten from topic /scan succesfully.  
+node reads lidar data from topic /scan succesfully.  
 valid measurements extracted, print minimal distance.  
 
 ### sllidar_ros2
