@@ -5,4 +5,7 @@ ROS 2 Version: Humble
 lidar node for obstacle avoidance and SLAM-Navigation
 by Siyu, Omkar
 ### sllidar_ros2
-official Slamtec Lidar S2 ROS2 Package
+official Slamtec Lidar S2 ROS2 Package:
+please clone from:
+https://github.com/Slamtec/sllidar_ros2
+
