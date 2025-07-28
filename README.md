@@ -4,8 +4,8 @@ ROS 2 Version: Humble
 ### robot_slam
 lidar node for obstacle avoidance and SLAM-Navigation  
 by Siyu, Omkar
-### Status: under developing
-#### milestone: 
+#### Status: under developing
+##### milestone: 
 node reads lidar data from topic /scan succesfully.  
 valid measurements extracted, print minimal distance.  
 
@@ -13,6 +13,6 @@ valid measurements extracted, print minimal distance.
 official Slamtec Lidar S2 ROS2 Package:
 please clone from:
 https://github.com/Slamtec/sllidar_ros2
-### Status: ready
+#### Status: ready
 installation finished. Lidar runs successfully with this package.  
 
